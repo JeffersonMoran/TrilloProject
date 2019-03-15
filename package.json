@@ -2,8 +2,9 @@
   "name": "trillo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jeffersonmoran.github.io/trillo",
   "dependencies": {
-    "node-sass": "^4.11.0",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-scripts": "2.1.5"
@@ -23,5 +24,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
 }
