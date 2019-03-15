@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/TrilloProject/static/media/star.1f1e3e55.svg"
   },
   {
-    "revision": "4685d704c8c9aeb51971b5d808908b94",
+    "revision": "1ba8a61fd052d4315b6a9c55efbe0430",
     "url": "/TrilloProject/index.html"
   }
 ];
