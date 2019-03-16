@@ -1,8 +1,16 @@
 import React from 'react'
 
-const Hotel = () => (
+const Hotel = ({ hotelData }) => (
     <main className="hotel-view">
-        Hotel View
+        <div className="gallery">
+            {
+                hotelData.map((item) => (
+                    <figure className="gallery__item">
+                        <img className="gallery__photo" src={require(`../img/${item.image}.jpg`)} alt={item.alt}/>
+                    </figure>
+                ))
+            }
+        </div>
     </main>
 )
 

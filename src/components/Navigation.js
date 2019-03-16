@@ -1,14 +1,14 @@
 import React from 'react'
 
-const Navigation = ({ navigationData }) => (
+const Navigation = ({ navigationData, handleClick }) => (
     <nav className="sidebar">
         <ul className="side-nav">
             {
-                navigationData.map(item => (
-                    <li className={`side-nav__item ${item.active ? 'side-nav__item--active':''}`}>
-                        <a href="#" className="side-nav__link">
+                navigationData.map((item, index) => (
+                    <li className={`side-nav__item ${item.active ? 'side-nav__item--active':''}`} key={index}>
+                        <a href="#" className="side-nav__link" onClick={handleClick}>
                             <img src={require(`../img/SVG/${item.icon}.svg`)} className="side-nav__icon" alt={item.alt} />
-                            <span>{item.name}</span>
+                            <span id={item.name} >{item.name}</span>
                         </a>
                     </li>
                 ))
