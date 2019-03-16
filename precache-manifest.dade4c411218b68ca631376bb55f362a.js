@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "84aa053b49b1cb0d0c65783f5241c271",
-    "url": "/TrilloProject/static/media/aircraft-take-off.84aa053b.svg"
+    "revision": "b5a4738667b39329dd542b07337aa67b",
+    "url": "/TrilloProject/static/media/chevron-right.b5a47386.svg"
   },
   {
-    "revision": "f4e35d625d146418b3bb",
-    "url": "/TrilloProject/static/css/main.0d85db6a.chunk.css"
+    "revision": "318d78c75adb8ab0e934",
+    "url": "/TrilloProject/static/css/main.05c73297.chunk.css"
   },
   {
     "revision": "69d22c7fd3f5d3fbcd03",
     "url": "/TrilloProject/static/js/runtime~main.69d22c7f.js"
   },
   {
-    "revision": "522f840fee064a4110ff",
-    "url": "/TrilloProject/static/js/2.522f840f.chunk.js"
+    "revision": "89c171a666a5913510ec",
+    "url": "/TrilloProject/static/js/2.89c171a6.chunk.js"
   },
   {
     "revision": "09bf8ae3ac2fcd070e04781738e4bea0",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/TrilloProject/static/media/user.f5fea7c4.jpg"
   },
   {
-    "revision": "f4e35d625d146418b3bb",
-    "url": "/TrilloProject/static/js/main.f4e35d62.chunk.js"
+    "revision": "84aa053b49b1cb0d0c65783f5241c271",
+    "url": "/TrilloProject/static/media/aircraft-take-off.84aa053b.svg"
   },
   {
-    "revision": "b5a4738667b39329dd542b07337aa67b",
-    "url": "/TrilloProject/static/media/chevron-right.b5a47386.svg"
+    "revision": "318d78c75adb8ab0e934",
+    "url": "/TrilloProject/static/js/main.318d78c7.chunk.js"
   },
   {
     "revision": "03f24c33dacb18eeaba38414ff6f2b94",
@@ -60,7 +60,19 @@ self.__precacheManifest = [
     "url": "/TrilloProject/static/media/star.1f1e3e55.svg"
   },
   {
-    "revision": "1ba8a61fd052d4315b6a9c55efbe0430",
+    "revision": "5a550a3da0d63bfa7ec73ac1f1acdbba",
+    "url": "/TrilloProject/static/media/hotel-1.5a550a3d.jpg"
+  },
+  {
+    "revision": "5468a3b162abcbb501141ce0e7f4aa6e",
+    "url": "/TrilloProject/static/media/hotel-2.5468a3b1.jpg"
+  },
+  {
+    "revision": "7af5efbc95e0464867f4327aee208ad5",
+    "url": "/TrilloProject/static/media/hotel-3.7af5efbc.jpg"
+  },
+  {
+    "revision": "4fd9fd5d024364fd379bd92daeb31d53",
     "url": "/TrilloProject/index.html"
   }
 ];
